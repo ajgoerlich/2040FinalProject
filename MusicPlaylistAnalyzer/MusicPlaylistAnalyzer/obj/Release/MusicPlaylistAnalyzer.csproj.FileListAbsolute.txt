@@ -1,0 +1,6 @@
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe.config
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.pdb
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.exe
+C:\Users\Andrew\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.pdb
